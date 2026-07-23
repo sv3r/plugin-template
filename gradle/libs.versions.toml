@@ -1,0 +1,11 @@
+[versions]
+junit = "6.1.1"
+paper = "26.2.build.65-beta"
+run-paper = "3.0.2"
+
+[libraries]
+junit-bom = { module = "org.junit:junit-bom", version.ref = "junit" }
+paper-api = { module = "io.papermc.paper:paper-api", version.ref = "paper" }
+
+[plugins]
+run-paper = { id = "xyz.jpenilla.run-paper", version.ref = "run-paper" }

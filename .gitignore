@@ -1,0 +1,40 @@
+# Gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# IntelliJ IDEA
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+
+*.launch
+
+# VSCode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# MacOS
+
+*.DS_Store
+
+# Java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# Paper development server
+
+run/
