@@ -1,7 +1,7 @@
 [versions]
 junit = "6.1.2"
 paper = "26.2.build.65-beta"
-run-paper = "3.0.2"
+run-paper = "3.1.0"
 
 [libraries]
 junit-bom = { module = "org.junit:junit-bom", version.ref = "junit" }
